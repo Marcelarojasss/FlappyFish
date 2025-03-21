@@ -1,10 +1,10 @@
-# 🐟 FlappyFish
+# FlappyFish
 
-FlappyFish is a Unity-based game inspired by the classic Flappy Bird — but with a fishy twist! Swim through pipes, dodge obstacles, and try not to *flop*. Built entirely in C# using Unity Engine.
+FlappyFish is a Unity-based game inspired by the classic Flappy Bird but with a fishy twist! Swim through pipes, dodge obstacles, and try not to *flop*. Built entirely in C# using Unity Engine.
 
 ## 🎮 Gameplay
 
-You play as a flying fish trying to navigate through underwater pipes. The game tests your reflexes and timing — and it gets harder the longer you survive.
+You play as a fish trying to navigate through underwater pipes. The game tests your reflexes and timing and it gets harder the longer you survive.
 
 - 🖱️ **Click (or spacebar)** to make the fish jump
 - 🧱 Avoid hitting the pipes or falling
@@ -24,7 +24,9 @@ You play as a flying fish trying to navigate through underwater pipes. The game 
 
 To play or edit the game:
 
-1. **Clone the repo**:
+1. Clone the repo:
 
    ```bash
    git clone https://github.com/Marcelarojasss/FlappyFish.git
+2. Go to releases >>>
+   Download the zip file and play!
